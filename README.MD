@@ -1,4 +1,4 @@
-#### Project Setup ####
+#### Project Setup
 
 In order to spin up the project, in the root create .env with these below two config variables, with your own values for firebase config.
 
